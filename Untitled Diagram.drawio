@@ -7,41 +7,80 @@
         <mxCell id="ARynIM5nl8zsYz3yVap9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ARynIM5nl8zsYz3yVap9-1" target="ARynIM5nl8zsYz3yVap9-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ARynIM5nl8zsYz3yVap9-1" value="Minnesota NWI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ARynIM5nl8zsYz3yVap9-1" value="Minnesota NWI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="50" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ARynIM5nl8zsYz3yVap9-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ARynIM5nl8zsYz3yVap9-2" target="ARynIM5nl8zsYz3yVap9-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ARynIM5nl8zsYz3yVap9-2" value="Soil Survey Geographic Database (SSURGO)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ARynIM5nl8zsYz3yVap9-2" value="Soil Survey Geographic Database (SSURGO)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="50" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ARynIM5nl8zsYz3yVap9-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ARynIM5nl8zsYz3yVap9-5" target="ARynIM5nl8zsYz3yVap9-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ARynIM5nl8zsYz3yVap9-5" value="Extract polygons where Histosol soil &amp;gt;=85% area" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ARynIM5nl8zsYz3yVap9-5" value="Extract polygons where Histosol soil &amp;gt;=85% area" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#CCFFCC;" vertex="1" parent="1">
           <mxGeometry x="210" y="125" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ARynIM5nl8zsYz3yVap9-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ARynIM5nl8zsYz3yVap9-7" target="ARynIM5nl8zsYz3yVap9-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ARynIM5nl8zsYz3yVap9-7" value="Intersect qualifying polygons with wetland land cover from MNNWI data" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ARynIM5nl8zsYz3yVap9-7" value="Intersect qualifying polygons with wetland land cover from MNNWI data" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#CCFFCC;" vertex="1" parent="1">
           <mxGeometry x="365" y="125" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ARynIM5nl8zsYz3yVap9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ARynIM5nl8zsYz3yVap9-10" target="ARynIM5nl8zsYz3yVap9-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ARynIM5nl8zsYz3yVap9-10" value="Areas classified as peatland for purposes of study" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ARynIM5nl8zsYz3yVap9-10" value="Areas classified as peatland for purposes of study" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB366;" vertex="1" parent="1">
           <mxGeometry x="520" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ARynIM5nl8zsYz3yVap9-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ARynIM5nl8zsYz3yVap9-12" target="ARynIM5nl8zsYz3yVap9-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ARynIM5nl8zsYz3yVap9-12" value="Minnesota Buffer Protection Public Ditch Features" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ARynIM5nl8zsYz3yVap9-12" value="Minnesota Buffer Protection Public Ditch Features" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="50" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ARynIM5nl8zsYz3yVap9-13" value="Intersect for estimate of public ditches within peatlands" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ARynIM5nl8zsYz3yVap9-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ARynIM5nl8zsYz3yVap9-13" target="ARynIM5nl8zsYz3yVap9-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ARynIM5nl8zsYz3yVap9-13" value="Intersect the peatland with public ditch features" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#CCFFCC;" vertex="1" parent="1">
           <mxGeometry x="530" y="240" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ARynIM5nl8zsYz3yVap9-18" value="MNDNR NWI Wetland Finder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
+          <mxGeometry x="700" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ARynIM5nl8zsYz3yVap9-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="ARynIM5nl8zsYz3yVap9-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="360" as="sourcePoint" />
+            <mxPoint x="450" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ARynIM5nl8zsYz3yVap9-19" value="MN TOPO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
+          <mxGeometry x="700" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ARynIM5nl8zsYz3yVap9-16" value="Locations of public ditches located within peatlands" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FFB366;" vertex="1" parent="1">
+          <mxGeometry x="700" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ARynIM5nl8zsYz3yVap9-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ARynIM5nl8zsYz3yVap9-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="sourcePoint" />
+            <mxPoint x="760" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ARynIM5nl8zsYz3yVap9-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ARynIM5nl8zsYz3yVap9-22" target="ARynIM5nl8zsYz3yVap9-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ARynIM5nl8zsYz3yVap9-22" value="Select 69 sites for pre-ditch surface estimation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB366;" vertex="1" parent="1">
+          <mxGeometry x="700" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ARynIM5nl8zsYz3yVap9-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ARynIM5nl8zsYz3yVap9-23" target="ARynIM5nl8zsYz3yVap9-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ARynIM5nl8zsYz3yVap9-23" value="LiDAR elevation data from MnGeo FTP server" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ARynIM5nl8zsYz3yVap9-24" value="Model possible surface overtop of ditches" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66FF66;" vertex="1" parent="1">
+          <mxGeometry x="630" y="470" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
